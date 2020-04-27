@@ -17,7 +17,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Articles
+  - title: Blog
     url: /articles
   - title: About
     url: /about
